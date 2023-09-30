@@ -22,3 +22,11 @@ Screenshot of commits (Shows A3 commits too, since I didn't know we were suppose
 
 ![image](https://github.com/hallovera/ece444-lab2-hallovera/assets/75815453/2a17fb1e-3150-4c68-9ac2-875e789c4162)
 
+## Activity 4 Screenshots
+
+![image](https://github.com/hallovera/ece444-lab2-hallovera/assets/75815453/6ec2403b-b000-4b5b-8d4d-8df8c494e9c5)
+
+![image](https://github.com/hallovera/ece444-lab2-hallovera/assets/75815453/07a84ec7-06d7-4629-9bf5-c9039dd818b1)
+
+
+
